@@ -23,11 +23,11 @@
         </tr>
       </table>
     </td>
-    <!-- Columna 3: Tu Logo ATL (Versión Corregida) -->
+    <!-- Columna 3: Logo ATL Arreglado -->
     <td width="240" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/alberto23-tl/alberto23-tl/main/logo-atl.png" width="220" alt="Logo ATL" />
+      <img src="https://raw.githubusercontent.com/alberto23-tl/alberto23-tl/e57a01403ddb8acf928f4bc13a4c15839c7088dd/logo.png" width="220" alt="Logo ATL" />
       <br>
-      <font size="2" color="#00d4ff"><b>Logo ATL</b><br><b>ASIR & CYBER</b></font>
+      <font size="3" color="#00d4ff"></font>
     </td>
   </tr>
 </table>
