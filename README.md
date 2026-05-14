@@ -1,10 +1,10 @@
 <table border="0">
   <tr>
     <td width="160">
-      <img src="https://github.com/alberto23-tl.png" width="160" style="border-radius: 10px;" />
+      <img src="https://github.com/alberto23-tl.png" width="160" style="border-radius: 10px; border: 3px solid #00d4ff;" />
     </td>
     <td>
-      <h1>[ALBERTO23-TL]</h1>
+      <h1><font color="#00d4ff">[ALBERTO23-TL]</font></h1>
       <p><strong>Desarrollador Full-Stack</strong></p>
       <p>¡Hola! Soy Alberto. Me apasiona el desarrollo de software, la creación de soluciones eficientes y el aprendizaje constante de nuevas tecnologías.</p>
     </td>
@@ -34,29 +34,31 @@
 <table width="100%" border="0">
   <tr>
     <td width="50%">
-      <h3>Mis estadísticas de GitHub</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=alberto23-tl&show_icons=true&theme=tokyonight&hide_border=false" width="100%" />
+      <h3><font color="#00d4ff">📊 Mis estadísticas</font></h3>
+      <img src="https://github-readme-stats.vercel.app/api?username=alberto23-tl&show_icons=true&theme=dark&title_color=00d4ff&icon_color=00d4ff&text_color=fff&bg_color=0d1117&hide_border=false" width="100%" />
     </td>
     <td width="50%">
-      <h3>Mis Lenguajes más usados</h3>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alberto23-tl&layout=compact&theme=tokyonight&hide_border=false" width="100%" />
+      <h3><font color="#00d4ff">🚀 Lenguajes</font></h3>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alberto23-tl&layout=compact&theme=dark&title_color=00d4ff&icon_color=00d4ff&text_color=fff&bg_color=0d1117&hide_border=false" width="100%" />
     </td>
   </tr>
 </table>
 
 ---
 
-### 📊 Actividad
-![Gráfico de actividad](https://github-readme-activity-graph.vercel.app/graph?username=alberto23-tl&theme=tokyonight&hide_border=false)
+### <font color="#00d4ff">📈 Actividad</font>
+![Gráfico de actividad](https://github-readme-activity-graph.vercel.app/graph?username=alberto23-tl&theme=react-dark&color=00d4ff&hide_border=false)
 
 ### 🏆 Proyectos Destacados
 
 | Proyecto | Descripción | Link |
 | :--- | :--- | :--- |
-| **🚀 App Genial** | Aplicación desarrollada con tecnologías modernas. | [Ver Repo](https://github.com/alberto23-tl) |
-| **🎨 Portfolio Pro** | Mi sitio personal con diseño responsivo. | [Ver Repo](https://github.com/alberto23-tl) |
+| **🚀 App Principal** | Solución escalable con arquitectura moderna. | [Ver Repo](https://github.com/alberto23-tl) |
+| **🎨 Portfolio** | Mi sitio personal con diseño responsivo. | [Ver Repo](https://github.com/alberto23-tl) |
 
 <br>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=alberto23-tl&color=blue&style=flat-square&label=VISTAS+AL+PERFIL" />
+  <a href="https://github.com/alberto23-tl">
+    <img src="https://komarev.com/ghpvc/?username=alberto23-tl&color=00d4ff&style=flat-square&label=VISTAS+AL+PERFIL" alt="Vistas de alberto23-tl" />
+  </a>
 </p>
